@@ -18,3 +18,4 @@ And after adding the task I will provide the functionality so that user can edit
 And I will use filters on the task to make easy maintenance of the task pending task, completed task, important task. to calculate the percentage of the task completed. 
 I'm also going to create the data model for this application using SQL Server for this i will create the tables and give relations using keys between the tables.
 Good to have-Set priority of the task like urgent, important, medium, low.
+![Screenshot 2024-09-10 133451](https://github.com/user-attachments/assets/46b8cb0d-1697-4da3-979d-10984c215f23)
